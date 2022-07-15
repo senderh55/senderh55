@@ -1,7 +1,7 @@
 ### Hi There 👋
 
-- :man_beard: My name is Sender Hodik
-- 👀 I’m a Software Engineering Student
+- :man_scientist: My name is Sender Hodik
+- :student: I’m a Software Engineering Student
 - :earth_africa: Here there are some projects I have worked on 
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/senderhodik/)
