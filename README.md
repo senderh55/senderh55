@@ -1,4 +1,4 @@
-### 
+### Hi There 👋
 
 - 👋 Hi, my name is Sender Hodik
 - 👀 I’m a Software Engineering Student
