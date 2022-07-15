@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-- 👋 Hi, my name is Sender Hodik
+- :man_beard: My name is Sender Hodik
 - 👀 I’m a Software Engineering Student
 - :earth_africa: Here there are some projects I have worked on 
 - 📫 How to find me:
