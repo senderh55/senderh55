@@ -2,7 +2,7 @@
 
 - :man_scientist: My name is Sender Hodik
 - :student: I’m a Software Engineer
-- :earth_africa: Here there are some projects I have worked on 
+- :earth_africa: The following are some of the projects I have worked on 
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/senderhodik/)
   - :e-mail: Senderh55@gmail.com
